@@ -1,0 +1,221 @@
+body{
+    font-family: "Poppins", sans-serif;
+    line-height:1.9 ;
+    letter-spacing:1px;
+}
+button{
+    cursor: pointer;
+}
+a{
+    cursor: pointer;
+}
+header{
+   background-color:#00516f ;
+    width: 100%;
+   
+}
+
+
+ .nav-link{
+    font-weight: 900;
+    font-size: 18px;
+ } 
+  
+.logo-name{
+   
+    font-family: "Poppins",  ;
+    font-weight: 900;
+    color:wheat;
+    font-size: 30px;
+  
+  
+}
+.background{
+    height: 300px;
+    background-image: url(https://images.unsplash.com/photo-1559825481-12a05cc00344?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+}
+.welcome-message{
+  
+    font-weight: 900;
+    color: black;
+    font-size: 100px;
+    font-family: "Poppins", sans-serif;
+}
+.welcome-message-para{
+    font-size: 20px;
+    color:wheat;
+    font-weight: normal;
+    font-family: "Poppins", sans-serif;
+    margin: 20px;
+}
+
+.text1{
+    font-size: 100px;
+    font-weight: 900;
+}
+.image1{
+    width: 100%;
+    height:500px;
+    object-fit: cover;
+}
+.para1{
+    font-family: "Caveat", cursive;
+    font-weight: 900;
+    font-size: larger;
+    color: gray;
+}
+.para2{
+    font-family: "Poppins", sans-serif;
+    color:gray;
+    line-height: 30px;
+    
+}
+.text2{
+    font-weight: 900;
+    font-size: 50px;
+    color: #4bbed1;
+}    
+.section3{
+    margin-top: 100px;
+}
+.take-tour{
+    font-weight: 900;
+    background-color: #00516f;
+    
+}
+.carousel-inner {
+    transition: transform 0.1s ease; 
+  }
+ .activities-text{
+    font-weight: 900;
+    font-size: 50px;
+    color:#4bbed1;
+ } 
+ .card-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: #00516f;
+ }
+ .card{
+    border:1px solid aqua;
+ }
+ .explore-btn{
+    font-weight: 900;
+    background-color: #00516f;
+    padding-left: 15px;
+    padding-right:15px;padding-top: 10px;
+    padding-bottom: 10px; 
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    border:2px solid aqua ;
+    
+ }
+ .popular-text{
+    font-weight: 900;
+    color: #4bbed1;font-size: 50PX;
+ }
+ .section4{
+    object-fit: cover;
+    background-image: url(https://images.unsplash.com/photo-1559825481-12a05cc00344?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    height: 300px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+ }
+ .section2{
+    background-image: url(https://images.unsplash.com/photo-1464925257126-6450e871c667?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    margin-top: 80px;
+ }
+ .card{
+    background-color: #00516f;
+    color: white;
+ }
+ .card-title{
+    font-size: 25px;
+    font-weight: 600;
+ }
+ .card-text{
+    color: wheat;
+ }
+ .lets-go{
+    border-radius: 5px;
+    font-weight: 900;
+    font-size: 20px;
+  
+    border: none;
+ }
+ #booknow{
+    border-radius: 5px;
+    border: 2px solid #564e67;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #00516f;
+    color: wheat;
+    font-weight: 900;
+    border: 1px solid aqua;
+ }
+ .packages{
+ width: 100%;
+ height: 500px;
+ background-color: aqua;
+ border-radius: 5px;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ gap: 20px;
+ background: #00516f;
+    color: wheat
+ }
+ .packages-div1{
+    width: 100%;
+    height: 500px;
+   
+    color:#4bbed1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+ }
+ .package-wrapper1,.package-wrapper2,.package-wrapper3{
+   margin-left: 10px;
+   margin-right: 10px;
+   
+ }
+.package-wrapper1:hover{
+   background-color: rgb(64, 103, 145);
+}
+.package-wrapper2:hover{
+   background-color: rgb(64, 103, 145);
+}
+.package-wrapper3:hover{
+   background-color: rgb(64, 103, 145);
+}
+button:hover{
+   background-color: black;
+}
+a:hover{
+   background-color: black;
+}
+.gallery{
+   width: 100%;
+}
+
+.footer-div{
+   
+   height: 700px;
+   background-image: url(https://images.unsplash.com/photo-1562016600-ece13e8ba570?q=80&w=1938&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+}
+.footer-contact-section2{
+   width: 100%;
+   height: 400px;
+   background-color: #00516f;
+   
+}
